@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T10:44:13.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BjZH45fNt0Jc62Wd50Oj" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T10:54:20.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Yyk4Ct5792R3M0LcH7R1" version="24.0.5" type="github">
   <diagram name="Page-1" id="CIX9CJY4FI9i-N0InVwW">
     <mxGraphModel dx="1900" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -199,6 +199,15 @@
           <mxGeometry width="30" height="24" relative="1" as="geometry">
             <mxPoint x="15" y="18" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OzqokmSR_TTWF9jps7fz-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://netlogoweb.org/assets/images/netlogowebicon.png;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="130.5" width="52.5" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OzqokmSR_TTWF9jps7fz-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/0/0b/Arena_jailson.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="145.5" width="80" height="27.43" as="geometry" />
+        </mxCell>
+        <mxCell id="OzqokmSR_TTWF9jps7fz-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://seeklogo.com/images/A/anylogic-logo-935EED9777-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="146.8" width="80" height="26.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
