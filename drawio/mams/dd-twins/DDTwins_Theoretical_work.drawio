@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T00:52:30.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.0.5" etag="Gb7DXPdjBwHDhyZYGmyR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T00:52:40.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JdV8zbmh7r49pVEoQlnq" version="24.0.5" type="github">
   <diagram name="Page-1" id="bN6sO1DC5ZeQt1ZnxmeP">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UtXRohuooc1eVS7CxCtk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="35" width="300" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Digital Twins&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="205.82" y="20.19" width="40" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-4" value="Digital Shadow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UtXRohuooc1eVS7CxCtk-4" target="UtXRohuooc1eVS7CxCtk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-6" value="Digital Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-7" value="Digital Simulation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-8" value="Twin Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="275.19" as="sourcePoint" />
+            <mxPoint x="270" y="275.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-12" value="&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Architecture&lt;/font&gt;&lt;/i&gt;" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_4p;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="54.18" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-13" value="&lt;i&gt;Methodology&lt;/i&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.infrastructure;" vertex="1" parent="1">
+          <mxGeometry x="307.83" y="360" width="72.17" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UtXRohuooc1eVS7CxCtk-14" value="Taxonomy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="111" y="435" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
