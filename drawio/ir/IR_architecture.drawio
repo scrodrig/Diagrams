@@ -1,17 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T22:36:47.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Us-bL50JKbUkKw3TxW6o" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T22:39:04.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Q0Wsx4bYuRz2gYvhS3Bv" version="24.2.1" type="github">
   <diagram name="Page-1" id="DP_hX9ZNUNGpx8QDvyG6">
     <mxGraphModel dx="1050" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SlIUQuKyh698OSaFGU5G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SlIUQuKyh698OSaFGU5G-1" target="SlIUQuKyh698OSaFGU5G-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="70" />
+              <mxPoint x="576" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SlIUQuKyh698OSaFGU5G-1" value="Corpus" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="215" y="130" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SlIUQuKyh698OSaFGU5G-3" value="queries" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.search_documents;" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SlIUQuKyh698OSaFGU5G-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SlIUQuKyh698OSaFGU5G-4" target="SlIUQuKyh698OSaFGU5G-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="310" />
+              <mxPoint x="338" y="100" />
+              <mxPoint x="540" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SlIUQuKyh698OSaFGU5G-4" value="qrels" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documents;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlIUQuKyh698OSaFGU5G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SlIUQuKyh698OSaFGU5G-5" target="SlIUQuKyh698OSaFGU5G-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SlIUQuKyh698OSaFGU5G-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="155" width="380" height="160" as="geometry" />
@@ -24,6 +44,9 @@
         </mxCell>
         <mxCell id="SlIUQuKyh698OSaFGU5G-9" value="LLM_GPT4" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="1">
           <mxGeometry x="656" y="177" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="SlIUQuKyh698OSaFGU5G-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SlIUQuKyh698OSaFGU5G-10" target="SlIUQuKyh698OSaFGU5G-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SlIUQuKyh698OSaFGU5G-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="362" width="388" height="90" as="geometry" />
@@ -42,6 +65,14 @@
         </mxCell>
         <mxCell id="SlIUQuKyh698OSaFGU5G-17" value="NDGC@[10 100 1000]" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.reports" vertex="1" parent="1">
           <mxGeometry x="932" y="303" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SlIUQuKyh698OSaFGU5G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SlIUQuKyh698OSaFGU5G-3" target="SlIUQuKyh698OSaFGU5G-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="420" />
+              <mxPoint x="360" y="222" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
