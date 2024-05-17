@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T09:46:14.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Y-f4B4Y7gDa3F0Avv9jo" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T09:46:28.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IZ5PAkLXIRtXZae64sij" version="24.4.3" type="github">
   <diagram name="Página-1" id="9DRcJjq7OS1Ig7JnfaU4">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
             <mxPoint x="-8" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5rqA7TYwefLQTekeHFRc-3" value="API Gateway&lt;div&gt;(Client &amp;amp; REST API)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5rqA7TYwefLQTekeHFRc-3" value="API Gateway&lt;div&gt;(gRPC Client &lt;br&gt;&amp;amp; REST API)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5rqA7TYwefLQTekeHFRc-8" value="Intranet/&lt;div&gt;Internet&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
