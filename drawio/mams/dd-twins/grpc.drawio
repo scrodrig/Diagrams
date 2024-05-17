@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T09:44:51.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iZEp2RvKu5vmxuTxKV-n" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T09:45:34.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RUR_wkAHTOX5Rixzkt4E" version="24.4.3" type="github">
   <diagram name="Página-1" id="9DRcJjq7OS1Ig7JnfaU4">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="5rqA7TYwefLQTekeHFRc-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="5rqA7TYwefLQTekeHFRc-1" value="Auth&lt;div&gt;(non-HTTP&lt;/div&gt;&lt;div&gt;MicroService)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5rqA7TYwefLQTekeHFRc-1" value="Auth&lt;div&gt;(MicroService)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rqA7TYwefLQTekeHFRc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="5rqA7TYwefLQTekeHFRc-2" target="5rqA7TYwefLQTekeHFRc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5rqA7TYwefLQTekeHFRc-2" value="Gas stations&lt;div&gt;(non-HTTP&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MicroService&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5rqA7TYwefLQTekeHFRc-2" value="Gas stations&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;MicroService&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rqA7TYwefLQTekeHFRc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5rqA7TYwefLQTekeHFRc-3" target="5rqA7TYwefLQTekeHFRc-9" edge="1">
