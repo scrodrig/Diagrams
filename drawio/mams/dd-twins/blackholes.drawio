@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T14:36:49.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="td3KB6mZ5a2Jhuz4N3ps" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T14:39:39.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j1l2e3V7MQj_b33RCtCz" version="24.5.2" type="github">
   <diagram name="Page-1" id="1mZLNWGD-sYl4ZrDSX6F">
     <mxGraphModel dx="1221" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
         <mxCell id="Kzq9Bu8EnrHGI0cKUDUz-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="910.3" y="377" width="19.7" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="Kzq9Bu8EnrHGI0cKUDUz-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/001/192/951/original/sun-png.png;" vertex="1" parent="1">
-          <mxGeometry x="365.88" y="220" width="72.62" height="72.5" as="geometry" />
+        <mxCell id="Kzq9Bu8EnrHGI0cKUDUz-44" value="" style="shape=mxgraph.signs.nature.sun_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350.25" y="217" width="98" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
