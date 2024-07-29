@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-29T07:55:23.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="H-D_GaBnKQifOEnvUOGR" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-29T08:47:06.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="VPVRRAttpcmrU4aOCNBJ" version="24.5.4" type="github">
   <diagram name="Page-1" id="zUJ7GC7uD28MWCzUeDHU">
     <mxGraphModel dx="1647" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,21 @@
         <mxCell id="1" parent="0" />
         <mxCell id="sbCPYrGfywKiEF4ClO-b-1" value="Second Brain - App architecture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sbCPYrGfywKiEF4ClO-b-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="530" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="sbCPYrGfywKiEF4ClO-b-5" value="Auth Options Providers" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="200" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="sbCPYrGfywKiEF4ClO-b-6" value="Github" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="sbCPYrGfywKiEF4ClO-b-5">
+          <mxGeometry x="70" y="60" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="sbCPYrGfywKiEF4ClO-b-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Credential" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="sbCPYrGfywKiEF4ClO-b-5">
+          <mxGeometry x="82.5" y="230" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sbCPYrGfywKiEF4ClO-b-8" value="Google" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png;" vertex="1" parent="sbCPYrGfywKiEF4ClO-b-5">
+          <mxGeometry x="61.5" y="370" width="92" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
